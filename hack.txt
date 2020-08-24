@@ -1,0 +1,399 @@
+TechHacker Ethical Hacking and Cyber Security Mega Bundle Part-1
+Pre-Hacking Course
+
+Module 1: Introduction
+
+	1. Introduction to Information Security
+
+	2. Information Security Threats
+
+	3. Introduction to Cyber Security
+
+	4. The CIA Triad
+
+	5. Introduction to Hacking and Hackers
+
+	6. Types of Hackers
+
+	7. Introduction to Ethical Hacking
+
+	8. Need for Ethical Hackers
+
+	9. Careers in Ethical Hacking
+
+	10. Course Overview
+
+	11. General Terminologies 
+
+	12. How to become an Ethical Hacker
+
+Module 2: Basics and Environment Setup
+
+	1. Cyber Security Basics
+
+		1. Advantages and Limitations of Cyber Security
+		2. Cyber Defense
+		3. Skills of an Ethical Hacker
+		4. Information Security Policies
+		5. Vulnerability Research
+
+	2. Operating Systems: Linux
+
+		1. Introduction and Evolution of Linux
+		2. Major Distributions of Linux
+		3. Linux for Penetration Testing
+
+	3. Types of Hackers contd.
+
+		1. Crackers
+		2. White hat, black hat, grey hat
+		3. Hacktivist
+		4. Script kiddie
+		5. Neophyte
+
+	4. Phases of Hacking
+
+		1. Footprinting
+		2. Scanning
+		3. Gaining Access
+		4. Maintaining Access
+		5. Clearing logs
+
+	5. Penetration Testing
+
+	6. Phases of Penetration Testing
+
+		1. Pre engagement Actions
+		2. Reconnaissance
+		3. Threat Modeling & Vulnerability Identification
+		4. Exploitation
+		5. Post-Exploitation
+		6. Reporting
+		7. Resolution & Re-Testing
+
+	7. Cyber Security vs. Ethical Hacking
+
+	8. Ethical Hacking Laws and Policies
+
+	9. IT Act 2000
+
+	10. Risk Management and Methodology
+
+	11. Software/Hardware Requirements for Hacking Lab
+
+	12. Installation and Configuration of VMWare
+
+	13. Installing Kali in Virtual Machine
+
+		1. Selecting an appropriate distro
+		2. Downloading the machine
+		3. Downloading VMWare
+		4. Installing on Windows 10 host
+		5. Configuring Kali 2019.4 in VMWare
+		6. Installation
+
+	15. Managing Network Interfaces
+
+		1. NAT vs. Bridged vs. Host only
+
+	16. Download and installation of DVWA and BWAPP
+
+	17. Installing Metasploitable
+
+	18. Installing OWASP Broken Web Application
+
+Module 3: Linux Refresher
+
+	1. Introduction to Command Line 
+
+		1. Command Shell basics
+		2. Windows Command Line
+		3. Linux Command Line
+
+	2. File Systems
+
+		1. Unix File System
+		2. NTFS vs. FAT vs. EXT
+
+	3. User Hierarchy
+
+		1. Linux User administration
+
+	4. Terminal and shell commands
+
+		1. Major DOS commands
+		2. Major Linux Terminal commands
+		3. Working with Linux User Administation
+		4. Working with Linux File permissions
+		5. Working with Linux groups
+		6. Linux Package Manager: apt
+		7. Linux Useful Files
+
+Module 4: Networking Refresher
+
+	1. The OSI/TCP-IP Model
+
+		1. Introduction to Layered Network Architecture
+		2. Significance of each Layer
+		3. Protocol Data Unit (PDU)
+		4. Working of each Layer
+
+	2. Data Link Layer
+
+		1. Working of DLL 
+		2. Introduction to MAC addresses
+		3. MAC address structure
+
+	3. Network Layer
+
+		1. Working of NL
+		2. Basics of IP addresses
+		3. Types of IP addresses
+		4. Classful and classless addressing
+
+	4. Transport Layer
+
+		1. Working of TL
+		2. Working of TCP and UDP
+		3. Differences and Similarilities of TCP and UDP
+		4. Basics of Port addressing
+		5. Types of Ports
+
+	5. Proxy and Proxy Servers
+
+		1. Introduction to Proxies
+		2. How proxies work
+		3. Applications of proxies
+		4. Types of Proxies
+		5. Types of Proxy Servers
+
+	6. TOR 
+
+		1. Introduction to Onion Routing
+		2. The TOR Network
+		3. Advantages and Disadvantages of TOR
+
+	7. VPN
+
+		1. Introduction to Virtual Networks
+		2. Introduction to Tunneling
+		3. Encapsulation and Encryption
+		4. Working of VPN
+		5. Protocols Implementing VPNs
+		6. Advantages and Disadvantages of VPN
+		7. Types of VPN
+
+	8. Remote login: SSH and telnet
+
+		1. Working of Remote Login
+		2. Introduction to telnet
+		3. Introduction to Secure Shell (SSH)
+
+	9. Introduction to NAT and Port Forwarding
+
+Module 5: Footprinting and Reconnaissance
+
+	1. Basics of Footprinting
+
+		1. Terminology
+		2. Why Footprinting?
+		3. Objectives of Footprinting
+
+	2. Types of Footprinting
+
+		1. Footprinting through Search Engines
+		2. OSINT
+		3. Email Footprinting
+		4. Website Footprinting
+		5. Footprinting using Google
+		6. Competitive Intelligence
+
+	3. Website Footprinting
+
+		1. Extract Website Information from archive.org (Wayback Machine)
+		2. Website Mirroring 
+			1. wget -m
+			2. HTTrack Web Site Copier
+
+	4. whois
+
+		1. Introduction
+		2. Working with whois database
+	
+	5. DNS
+
+		1. DNS footprinting with DNS Interrogation Tools 
+
+			1. http://www.dnsstuff.com
+			2. http://network-tools.com
+
+		2. DNS footprinting with Linux host command
+        3. DNS footprinting with dnsdumpster
+        4. DNS footprinting with dns.google.com
+		
+	6. Network Footprinting
+
+		1. Locate the Network Range
+		2. Determine the Operating System
+		3. Traceroute
+		4. Traceroute Analysis
+
+	7. Footprinting Tools
+
+		1. Maltego
+
+			1. Introduction to Maltego
+			2. Information Gathering with domain name
+			3. Information Gathering with IP address
+			4. Using the tool efficiently
+			5. Transform Hub
+			6. Integration with Shodan API
+
+		2. OSINT Framework
+		3. Traceroute
+		4. Harvester
+		5. Shodan
+
+			1. Introduction and Working
+			2. Working with Shodan Dorks
+
+		6. WhatWeb, 
+		7. Wappalyzer
+		8. Subdomain finder 
+			1. sublist3r
+			2. Websites: Pentest-tools and Virustotal
+		9. netdiscover
+		10. Major IP Block
+
+	8. Google Hacking
+
+		1. Introduction to Google Hacking
+		2. Dorks and Advanced Search Operators
+		3. Working with Google Dorks
+
+	9. Footprinting with Social Engineering
+
+		1. Collect Information Using 
+
+			1. Eavesdropping, 
+			2. Shoulder Surfing
+			3. Dumpster Diving
+
+	10. Footprinting Countermeasures
+
+Module 6: Scanning
+
+	1. Overview
+
+	2. Scanning Methodology
+
+		1. Check for Live systems 
+
+			1. Workign with ping command
+			2. Angry IP scanner
+
+		2. ICMP scan
+		3. TCP flags
+		4. TCP 3-Way Handshake
+		5. Check for open ports/Port scanning
+
+			1. Types of Port scanning
+			2. TCP Connect Scan
+			3. TCP Stealth Scan
+			4. FIN, NULL scan
+			5. XMAS scan
+			6. ACK Probe scan
+			7. UDP scan
+
+		6. Nmap scanning
+
+			1. Introduction and First Look
+			2. Port Scanning
+			3. Advanced Port Scanning
+			4. Bypassing Firewalls and IDS
+			5. Types of Scans
+
+		7. hping3 port scanning
+		8. Pentest-tools.com
+		9. Colasoft Packet Builder
+
+	3. Banner Grabbing
+
+		1. Active and passive
+		2. OS Fingerprinting
+		3. Banner grabbing tools
+			1. ID Serve
+			2. NetCraft
+			3. NetCat
+		
+	4. Evading IDS and Firewalls
+
+		1. IDS Evasion Techniques
+		2. SYN/FIN Scanning Using IP Fragments
+
+	5. Vulnerability Scanning
+
+		1. Nessus tool
+		2. Nmap Scripting Engine
+		3. Nikto scan
+		4. OpenVAS
+		5. wpscan
+
+	6. Mapping Networks
+
+		1. Network Topology Mapper
+		2. Spiceworks
+		3. LANState Pro
+
+	7. Scanning Countermeasures
+
+		1. Port scanning
+		2. Banner Grabbing
+		3. Hiding File Extensions from Web Pages
+
+Module 7: Enumeration
+
+	1. Basics and overview
+
+	2. Techniques of enumeration
+
+	3. NetBIOS Enumeration
+
+		1. NetBIOS Enumeration Tool: nbtstat
+		2. Enumerating NetBios Name Tables
+		3. Enumerating User Accounts
+
+	4. SNMP Enum
+
+		1. Working of SNMP
+		2. SNMP Architecture
+
+	5. LDAP Enum
+		1. Introduction to LDAP
+		2. LDAP Directory Struture
+
+	6. SMTP Enum
+
+		1. SMTP Enumeration Tool: telnet
+		2. MetaSploit SMTP enum exploits
+
+	7. DNS Enum
+
+		1. Introduction to DNS Zones
+		2. Introduction to DNS Zone Transfer
+		3. DNS Zone Transfer Enumeration Using NSLookup
+		4. DNS Zone Transfer Enumeration Using host command
+		5. The dig command
+		6. DNS Zone Transfer Enumeration Using dig command
+
+	8. SMB Enum
+
+		1. Working of SMB
+		2. nmap smb scripts
+		3. smbclient
+
+	9. NTP Enum
+		1. Introduction to NTP
+		2. NTP Servers Architecture
+
+	10. Enumeration Countermeasures
