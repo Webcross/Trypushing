@@ -1,0 +1,1652 @@
+--2020-08-08 00:52:40--  http://www.mmghs.in/
+Resolving www.mmghs.in... 43.255.154.35
+Connecting to www.mmghs.in|43.255.154.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.mmghs.in/index.html’
+
+     0K .......... .......... .......... .......... .......... 61.1K
+    50K ..........                                             98.9K=0.9s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:52:43 (65.4 KB/s) - ‘www.mmghs.in/index.html’ saved [61594]
+
+Loading robots.txt; please ignore errors.
+--2020-08-08 00:52:45--  http://www.mmghs.in/robots.txt
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/plain]
+Saving to: ‘www.mmghs.in/robots.txt’
+
+     0K                                                         991K=0s
+
+2020-08-08 00:52:46 (991 KB/s) - ‘www.mmghs.in/robots.txt’ saved [67]
+
+--2020-08-08 00:52:48--  http://www.mmghs.in/xmlrpc.php
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 405 Method Not Allowed
+2020-08-08 00:52:50 ERROR 405: Method Not Allowed.
+
+--2020-08-08 00:52:52--  http://www.mmghs.in/feed/
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/rss+xml]
+Saving to: ‘www.mmghs.in/feed/index.html’
+
+     0K .                                                      11.8M=0s
+
+2020-08-08 00:52:53 (11.8 MB/s) - ‘www.mmghs.in/feed/index.html’ saved [1084]
+
+--2020-08-08 00:52:55--  http://www.mmghs.in/comments/feed/
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/rss+xml]
+Saving to: ‘www.mmghs.in/comments/feed/index.html’
+
+     0K                                                        7.32M=0s
+
+2020-08-08 00:52:56 (7.32 MB/s) - ‘www.mmghs.in/comments/feed/index.html’ saved [783]
+
+--2020-08-08 00:52:58--  http://www.mmghs.in/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 53593 (52K) [text/css]
+Saving to: ‘www.mmghs.in/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2.css’
+
+     0K .......... .......... .......... .......... .......... 95% 22.3K 0s
+    50K ..                                                    100%  831 =5.1s
+
+2020-08-08 00:53:04 (10.2 KB/s) - ‘www.mmghs.in/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2.css’ saved [53593/53593]
+
+--2020-08-08 00:53:06--  http://www.mmghs.in/wp-content/plugins/wpfront-scroll-top/css/wpfront-scroll-top.min.css?ver=2.0.2
+Connecting to www.mmghs.in|43.255.154.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 428 [text/css]
+Saving to: ‘www.mmghs.in/wp-content/plugins/wpfront-scroll-top/css/wpfront-scroll-top.min.css?ver=2.0.2.css’
+
+     0K                                                       100% 6.83M=0s
+
+2020-08-08 00:53:07 (6.83 MB/s) - ‘www.mmghs.in/wp-content/plugins/wpfront-scroll-top/css/wpfront-scroll-top.min.css?ver=2.0.2.css’ saved [428/428]
+
+--2020-08-08 00:53:09--  http://www.mmghs.in/wp-content/themes/Rajib/style.css?ver=screen
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 612454 (598K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/style.css?ver=screen.css’
+
+     0K .......... .......... .......... .......... ..........  8% 52.2K 10s
+    50K .......... .......... .......... .......... .......... 16%  565K 5s
+   100K .......... .......... .......... .......... .......... 25% 91.1K 5s
+   150K .......... .......... .......... .......... .......... 33%  807K 3s
+   200K .......... .......... .......... .......... .......... 41%  971K 2s
+   250K .......... .......... .......... .......... .......... 50%  468K 2s
+   300K .......... .......... .......... .......... .......... 58%  669K 1s
+   350K .......... .......... .......... .......... .......... 66%  394K 1s
+   400K .......... .......... .......... .......... .......... 75%  756K 1s
+   450K .......... .......... .......... .......... .......... 83%  306K 0s
+   500K .......... .......... .......... .......... .......... 91%  537K 0s
+   550K .......... .......... .......... .......... ........  100%  681K=2.4s
+
+2020-08-08 00:53:12 (248 KB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/style.css?ver=screen.css’ saved [612454/612454]
+
+--2020-08-08 00:53:14--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 17222 (17K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4.css’
+
+     0K .......... ......                                     100% 1.22M=0.01s
+
+2020-08-08 00:53:15 (1.22 MB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4.css’ saved [17222/17222]
+
+--2020-08-08 00:53:17--  http://www.mmghs.in/wp-content/themes/Rajib/css/animations.css?ver=5.4.2
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 100597 (98K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/css/animations.css?ver=5.4.2.css’
+
+     0K .......... .......... .......... .......... .......... 50% 51.9K 1s
+    50K .......... .......... .......... .......... ........  100%  371K=1.1s
+
+2020-08-08 00:53:18 (89.8 KB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/css/animations.css?ver=5.4.2.css’ saved [100597/100597]
+
+--2020-08-08 00:53:20--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 30999 (30K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0.css’
+
+     0K .......... .......... ..........                      100%  304K=0.1s
+
+2020-08-08 00:53:21 (304 KB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0.css’ saved [30999/30999]
+
+--2020-08-08 00:53:23--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/ionicons/css/ionicons.min.css?ver=5.4.2
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 51284 (50K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/css/fonts/ionicons/css/ionicons.min.css?ver=5.4.2.css’
+
+     0K .......... .......... .......... .......... .......... 99% 51.2K 0s
+    50K                                                       100%  156G=1.0s
+
+2020-08-08 00:53:25 (51.3 KB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/css/fonts/ionicons/css/ionicons.min.css?ver=5.4.2.css’ saved [51284/51284]
+
+--2020-08-08 00:53:27--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/et-fonts/et-fonts.css?ver=5.4.2
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7667 (7.5K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/css/fonts/et-fonts/et-fonts.css?ver=5.4.2.css’
+
+     0K .......                                               100%  107M=0s
+
+2020-08-08 00:53:27 (107 MB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/css/fonts/et-fonts/et-fonts.css?ver=5.4.2.css’ saved [7667/7667]
+
+--2020-08-08 00:53:29--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/feather-webfont/feather.css?ver=5.4.2
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8209 (8.0K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/css/fonts/feather-webfont/feather.css?ver=5.4.2.css’
+
+     0K ........                                              100% 4.46M=0.002s
+
+2020-08-08 00:53:30 (4.46 MB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/css/fonts/feather-webfont/feather.css?ver=5.4.2.css’ saved [8209/8209]
+
+--2020-08-08 00:53:32--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/fontello/css/fontello.css?ver=5.4.2
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4574 (4.5K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/css/fonts/fontello/css/fontello.css?ver=5.4.2.css’
+
+     0K ....                                                  100% 54.3M=0s
+
+2020-08-08 00:53:32 (54.3 MB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/css/fonts/fontello/css/fontello.css?ver=5.4.2.css’ saved [4574/4574]
+
+--2020-08-08 00:53:34--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/simple-line-icons/simple-line-icons.css?ver=5.4.2
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12622 (12K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/css/fonts/simple-line-icons/simple-line-icons.css?ver=5.4.2.css’
+
+     0K .......... ..                                         100% 1.52M=0.008s
+
+2020-08-08 00:53:35 (1.52 MB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/css/fonts/simple-line-icons/simple-line-icons.css?ver=5.4.2.css’ saved [12622/12622]
+
+--2020-08-08 00:53:37--  http://www.mmghs.in/wp-content/themes/Rajib/css/responsive.css?ver=5.4.2
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 160804 (157K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/css/responsive.css?ver=5.4.2.css’
+
+     0K .......... .......... .......... .......... .......... 31% 50.3K 2s
+    50K .......... .......... .......... .......... .......... 63%  325K 1s
+   100K .......... .......... .......... .......... .......... 95%  107K 0s
+   150K .......                                               100% 1.28M=1.6s
+
+2020-08-08 00:53:39 (97.0 KB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/css/responsive.css?ver=5.4.2.css’ saved [160804/160804]
+
+--2020-08-08 00:53:41--  http://www.mmghs.in/wp-content/uploads/2020/04/100logo-1.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 19308 (19K) [image/png]
+Saving to: ‘www.mmghs.in/wp-content/uploads/2020/04/100logo-1.png’
+
+     0K .......... ........                                   100% 5.59M=0.003s
+
+2020-08-08 00:53:41 (5.59 MB/s) - ‘www.mmghs.in/wp-content/uploads/2020/04/100logo-1.png’ saved [19308/19308]
+
+--2020-08-08 00:53:43--  http://www.mmghs.in/files/2020/07/0101.jpg
+Connecting to www.mmghs.in|43.255.154.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85347 (83K) [image/jpeg]
+Saving to: ‘www.mmghs.in/files/2020/07/0101.jpg’
+
+     0K .......... .......... .......... .......... .......... 59% 1.07M 0s
+    50K .......... .......... .......... ...                  100%  850K=0.08s
+
+2020-08-08 00:53:45 (981 KB/s) - ‘www.mmghs.in/files/2020/07/0101.jpg’ saved [85347/85347]
+
+--2020-08-08 00:53:47--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 16209 (16K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0.css’
+
+     0K .......... .....                                      100% 3.25M=0.005s
+
+2020-08-08 00:53:48 (3.25 MB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0.css’ saved [16209/16209]
+
+--2020-08-08 00:53:50--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.13
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 18468 (18K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.13.css’
+
+     0K .......... ........                                   100% 1.71M=0.01s
+
+2020-08-08 00:53:50 (1.71 MB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.13.css’ saved [18468/18468]
+
+--2020-08-08 00:53:52--  http://www.mmghs.in/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.13
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 108733 (106K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.13.css’
+
+     0K .......... .......... .......... .......... .......... 47% 39.1K 1s
+    50K .......... .......... .......... .......... .......... 94% 48.7K 0s
+   100K ......                                                100% 2.01M=2.3s
+
+2020-08-08 00:53:55 (46.0 KB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.13.css’ saved [108733/108733]
+
+--2020-08-08 00:53:57--  http://www.mmghs.in/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.10.0
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 211386 (206K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.10.0.css’
+
+     0K .......... .......... .......... .......... .......... 24% 64.4K 2s
+    50K .......... .......... .......... .......... .......... 48% 96.9K 1s
+   100K .......... .......... .......... .......... .......... 72%  141K 1s
+   150K .......... .......... .......... .......... .......... 96% 83.6K 0s
+   200K ......                                                100% 74.6K=2.3s
+
+2020-08-08 00:54:00 (88.5 KB/s) - ‘www.mmghs.in/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.10.0.css’ saved [211386/211386]
+
+--2020-08-08 00:54:02--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=2.9.13
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 57180 (56K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=2.9.13.css’
+
+     0K .......... .......... .......... .......... .......... 89% 78.1K 0s
+    50K .....                                                 100% 6.71M=0.6s
+
+2020-08-08 00:54:04 (87.1 KB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=2.9.13.css’ saved [57180/57180]
+
+--2020-08-08 00:54:06--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=2.9.13
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 26702 (26K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=2.9.13.css’
+
+     0K .......... .......... ......                          100% 80.4K=0.3s
+
+2020-08-08 00:54:06 (80.4 KB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=2.9.13.css’ saved [26702/26702]
+
+--2020-08-08 00:54:08--  http://www.mmghs.in/files/elementor/css/global.css?ver=1593954711
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:54:10 ERROR 404: Not Found.
+
+--2020-08-08 00:54:12--  http://www.mmghs.in/files/elementor/css/post-7.css?ver=1596133617
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2247 (2.2K) [text/css]
+Saving to: ‘www.mmghs.in/files/elementor/css/post-7.css?ver=1596133617.css’
+
+     0K ..                                                    100% 50.7M=0s
+
+2020-08-08 00:54:13 (50.7 MB/s) - ‘www.mmghs.in/files/elementor/css/post-7.css?ver=1596133617.css’ saved [2247/2247]
+
+--2020-08-08 00:54:15--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.5.8
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 66525 (65K) [text/css]
+Saving to: ‘www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.5.8.css’
+
+     0K .......... .......... .......... .......... .......... 76% 38.8K 0s
+    50K .......... ....                                       100%  158K=1.4s
+
+2020-08-08 00:54:16 (47.0 KB/s) - ‘www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.5.8.css’ saved [66525/66525]
+
+--2020-08-08 00:54:18--  http://www.mmghs.in/files/master-slider/custom.css?ver=4.3
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 266 [text/css]
+Saving to: ‘www.mmghs.in/files/master-slider/custom.css?ver=4.3.css’
+
+     0K                                                       100% 4.23M=0s
+
+2020-08-08 00:54:19 (4.23 MB/s) - ‘www.mmghs.in/files/master-slider/custom.css?ver=4.3.css’ saved [266/266]
+
+--2020-08-08 00:54:21--  http://www.mmghs.in/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 96873 (95K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp’
+
+     0K .......... .......... .......... .......... .......... 52% 35.0K 1s
+    50K .......... .......... .......... .......... ....      100% 64.0K=2.1s
+
+2020-08-08 00:54:24 (44.5 KB/s) - ‘www.mmghs.in/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp’ saved [96873/96873]
+
+--2020-08-08 00:54:26--  http://www.mmghs.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10056 (9.8K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1’
+
+     0K .........                                             100% 3.75M=0.003s
+
+2020-08-08 00:54:26 (3.75 MB/s) - ‘www.mmghs.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1’ saved [10056/10056]
+
+--2020-08-08 00:54:28--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=2.9.13
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 15055 (15K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=2.9.13’
+
+     0K .......... ....                                       100% 47.0K=0.3s
+
+2020-08-08 00:54:30 (47.0 KB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=2.9.13’ saved [15055/15055]
+
+--2020-08-08 00:54:32--  http://www.mmghs.in/wp-json/
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘www.mmghs.in/wp-json/index.html’
+
+     0K .......... .......... .......... .......... .......... 19.5K
+    50K .......... .......... .....                            24.8K=3.6s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:54:37 (21.0 KB/s) - ‘www.mmghs.in/wp-json/index.html’ saved [77068]
+
+--2020-08-08 00:54:38--  http://www.mmghs.in/xmlrpc.php?rsd
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2020-08-08 00:54:38--  (try: 2)  http://www.mmghs.in/xmlrpc.php?rsd
+Connecting to www.mmghs.in|43.255.154.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/xml]
+Saving to: ‘www.mmghs.in/xmlrpc.php?rsd’
+
+     0K                                                        11.6M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:54:39 (11.6 MB/s) - ‘www.mmghs.in/xmlrpc.php?rsd’ saved [780]
+
+--2020-08-08 00:54:41--  http://www.mmghs.in/wp-includes/wlwmanifest.xml
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1045 (1.0K) [application/xml]
+Saving to: ‘www.mmghs.in/wp-includes/wlwmanifest.xml’
+
+     0K .                                                     100% 25.2M=0s
+
+2020-08-08 00:54:42 (25.2 MB/s) - ‘www.mmghs.in/wp-includes/wlwmanifest.xml’ saved [1045/1045]
+
+--2020-08-08 00:54:44--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2F
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘www.mmghs.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.mmghs.in%2F’
+
+     0K ..                                                     29.9M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:54:45 (29.9 MB/s) - ‘www.mmghs.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.mmghs.in%2F’ saved [2219]
+
+--2020-08-08 00:54:47--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2F&format=xml
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/xml]
+Saving to: ‘www.mmghs.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.mmghs.in%2F&format=xml’
+
+     0K ..                                                     30.4M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:54:48 (30.4 MB/s) - ‘www.mmghs.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.mmghs.in%2F&format=xml’ saved [2313]
+
+--2020-08-08 00:54:50--  http://www.mmghs.in/files/2020/07/6.jpg
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 290628 (284K) [image/jpeg]
+Saving to: ‘www.mmghs.in/files/2020/07/6.jpg’
+
+     0K .......... .......... .......... .......... .......... 17%  330K 1s
+    50K .......... .......... .......... .......... .......... 35% 1.47M 0s
+   100K .......... .......... .......... .......... .......... 52%  850K 0s
+   150K .......... .......... .......... .......... .......... 70%  501K 0s
+   200K .......... .......... .......... .......... .......... 88%  734K 0s
+   250K .......... .......... .......... ...                  100%  703K=0.5s
+
+2020-08-08 00:54:59 (618 KB/s) - ‘www.mmghs.in/files/2020/07/6.jpg’ saved [290628/290628]
+
+--2020-08-08 00:55:01--  http://www.mmghs.in/files/2020/07/150logo_png.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 56470 (55K) [image/png]
+Saving to: ‘www.mmghs.in/files/2020/07/150logo_png.png’
+
+     0K .......... .......... .......... .......... .......... 90% 1.71M 0s
+    50K .....                                                 100%  509K=0.04s
+
+2020-08-08 00:55:01 (1.39 MB/s) - ‘www.mmghs.in/files/2020/07/150logo_png.png’ saved [56470/56470]
+
+--2020-08-08 00:55:03--  http://www.mmghs.in/wp-content/uploads/2020/06/mgmlogo.png
+Connecting to www.mmghs.in|43.255.154.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 129342 (126K) [image/png]
+Saving to: ‘www.mmghs.in/wp-content/uploads/2020/06/mgmlogo.png’
+
+     0K .......... .......... .......... .......... .......... 39% 1.13M 0s
+    50K .......... .......... .......... .......... .......... 79%  859K 0s
+   100K .......... .......... ......                          100% 4.47M=0.1s
+
+2020-08-08 00:55:04 (1.15 MB/s) - ‘www.mmghs.in/wp-content/uploads/2020/06/mgmlogo.png’ saved [129342/129342]
+
+--2020-08-08 00:55:06--  http://www.mmghs.in/history/
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.mmghs.in/history/index.html’
+
+     0K .......... .......... .......... .......... ..         31.4K=1.4s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:55:09 (31.4 KB/s) - ‘www.mmghs.in/history/index.html’ saved [43694]
+
+--2020-08-08 00:55:11--  http://www.mmghs.in/mcofschool/
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.mmghs.in/mcofschool/index.html’
+
+     0K .......... .......... .......... .......... ....       45.7K=1.0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:55:13 (45.7 KB/s) - ‘www.mmghs.in/mcofschool/index.html’ saved [45503]
+
+--2020-08-08 00:55:15--  http://www.mmghs.in/syllabus/
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.mmghs.in/syllabus/index.html’
+
+     0K .......... .......... .......... .......... ....       17.4K=2.6s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:55:19 (17.4 KB/s) - ‘www.mmghs.in/syllabus/index.html’ saved [45745]
+
+--2020-08-08 00:55:21--  http://www.mmghs.in/subjects/
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 502 Server Hangup
+2020-08-08 00:55:21 ERROR 502: Server Hangup.
+
+--2020-08-08 00:55:23--  http://www.mmghs.in/contact-us/
+Connecting to www.mmghs.in|43.255.154.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.mmghs.in/contact-us/index.html’
+
+     0K .......... .......... .......... .......... ......     46.1K=1.0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:55:27 (46.1 KB/s) - ‘www.mmghs.in/contact-us/index.html’ saved [47247]
+
+--2020-08-08 00:55:29--  http://www.mmghs.in/gallery/
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.mmghs.in/gallery/index.html’
+
+     0K .......... .......... .......... .......... ...        34.0K=1.3s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:55:32 (34.0 KB/s) - ‘www.mmghs.in/gallery/index.html’ saved [44746]
+
+--2020-08-08 00:55:34--  http://www.mmghs.in/login/
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.mmghs.in/login/index.html’
+
+     0K .......... .......... .......... .......... ..         64.4K=0.7s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:55:35 (64.4 KB/s) - ‘www.mmghs.in/login/index.html’ saved [43598]
+
+--2020-08-08 00:55:37--  http://www.mmghs.in/notice/
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.mmghs.in/notice/index.html’
+
+     0K .......... .......... .......... .......... ..         44.8K=1.0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:55:39 (44.8 KB/s) - ‘www.mmghs.in/notice/index.html’ saved [43630]
+
+--2020-08-08 00:55:41--  http://www.mmghs.in/Upload/uploads/a9.pdf
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 403229 (394K) [application/pdf]
+Saving to: ‘www.mmghs.in/Upload/uploads/a9.pdf’
+
+     0K .......... .......... .......... .......... .......... 12% 38.9K 9s
+    50K .......... .......... .......... .......... .......... 25% 63.5K 6s
+   100K .......... .......... .......... .......... .......... 38% 61.3K 5s
+   150K .......... .......... .......... .......... .......... 50% 61.9K 4s
+   200K .......... .......... .......... .......... .......... 63%  106K 2s
+   250K .......... .......... .......... .......... .......... 76% 78.9K 2s
+   300K .......... .......... .......... .......... .......... 88%  858K 1s
+   350K .......... .......... .......... .......... ...       100%  134K=5.2s
+
+2020-08-08 00:55:47 (75.9 KB/s) - ‘www.mmghs.in/Upload/uploads/a9.pdf’ saved [403229/403229]
+
+--2020-08-08 00:55:49--  http://www.mmghs.in/Online/adm.php
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.mmghs.in/Online/adm.php.html’
+
+     0K .......... ........                                    29.6K=0.6s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:55:50 (29.6 KB/s) - ‘www.mmghs.in/Online/adm.php.html’ saved [19234]
+
+--2020-08-08 00:55:52--  http://www.mmghs.in/Online/check.php
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.mmghs.in/Online/check.php.html’
+
+     0K .                                                      13.5M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 00:55:53 (13.5 MB/s) - ‘www.mmghs.in/Online/check.php.html’ saved [1207]
+
+--2020-08-08 00:55:55--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/blank.gif
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 43 [image/gif]
+Saving to: ‘www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/blank.gif’
+
+     0K                                                       100%  583K=0s
+
+2020-08-08 00:55:55 (583 KB/s) - ‘www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/blank.gif’ saved [43/43]
+
+--2020-08-08 00:55:57--  http://www.mmghs.in/files/2020/07/President-276x300.jpg
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 9783 (9.6K) [image/jpeg]
+Saving to: ‘www.mmghs.in/files/2020/07/President-276x300.jpg’
+
+     0K .........                                             100% 7.41M=0.001s
+
+2020-08-08 00:55:58 (7.41 MB/s) - ‘www.mmghs.in/files/2020/07/President-276x300.jpg’ saved [9783/9783]
+
+--2020-08-08 00:56:00--  http://www.mmghs.in/files/2020/07/President.jpg
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12615 (12K) [image/jpeg]
+Saving to: ‘www.mmghs.in/files/2020/07/President.jpg’
+
+     0K .......... ..                                         100% 1.31M=0.009s
+
+2020-08-08 00:56:01 (1.31 MB/s) - ‘www.mmghs.in/files/2020/07/President.jpg’ saved [12615/12615]
+
+--2020-08-08 00:56:03--  http://www.mmghs.in/files/2020/07/hm-3-267x300.jpg
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13834 (14K) [image/jpeg]
+Saving to: ‘www.mmghs.in/files/2020/07/hm-3-267x300.jpg’
+
+     0K .......... ...                                        100% 1.76M=0.008s
+
+2020-08-08 00:56:03 (1.76 MB/s) - ‘www.mmghs.in/files/2020/07/hm-3-267x300.jpg’ saved [13834/13834]
+
+--2020-08-08 00:56:05--  http://www.mmghs.in/files/2020/07/hm-3.jpg
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 66059 (65K) [image/jpeg]
+Saving to: ‘www.mmghs.in/files/2020/07/hm-3.jpg’
+
+     0K .......... .......... .......... .......... .......... 77% 1.13M 0s
+    50K .......... ....                                       100% 4.74M=0.05s
+
+2020-08-08 00:56:07 (1.36 MB/s) - ‘www.mmghs.in/files/2020/07/hm-3.jpg’ saved [66059/66059]
+
+--2020-08-08 00:56:09--  http://www.mmghs.in/files/2020/07/AHM-300x249.jpg
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12874 (13K) [image/jpeg]
+Saving to: ‘www.mmghs.in/files/2020/07/AHM-300x249.jpg’
+
+     0K .......... ..                                         100% 1.26M=0.01s
+
+2020-08-08 00:56:10 (1.26 MB/s) - ‘www.mmghs.in/files/2020/07/AHM-300x249.jpg’ saved [12874/12874]
+
+--2020-08-08 00:56:12--  http://www.mmghs.in/files/2020/07/AHM.jpg
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 37770 (37K) [image/jpeg]
+Saving to: ‘www.mmghs.in/files/2020/07/AHM.jpg’
+
+     0K .......... .......... .......... ......               100% 4.32M=0.008s
+
+2020-08-08 00:56:12 (4.32 MB/s) - ‘www.mmghs.in/files/2020/07/AHM.jpg’ saved [37770/37770]
+
+--2020-08-08 00:56:14--  http://www.mmghs.in/wp-content/plugins/wpfront-scroll-top/images/icons/46.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7668 (7.5K) [image/png]
+Saving to: ‘www.mmghs.in/wp-content/plugins/wpfront-scroll-top/images/icons/46.png’
+
+     0K .......                                               100% 1.50M=0.005s
+
+2020-08-08 00:56:14 (1.50 MB/s) - ‘www.mmghs.in/wp-content/plugins/wpfront-scroll-top/images/icons/46.png’ saved [7668/7668]
+
+--2020-08-08 00:56:16--  http://www.mmghs.in/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js?ver=2.0.2
+Connecting to www.mmghs.in|43.255.154.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1935 (1.9K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js?ver=2.0.2’
+
+     0K .                                                     100% 26.7M=0s
+
+2020-08-08 00:56:17 (26.7 MB/s) - ‘www.mmghs.in/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js?ver=2.0.2’ saved [1935/1935]
+
+--2020-08-08 00:56:19--  http://www.mmghs.in/wp-content/themes/Rajib/js/velocity.min.js
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 44852 (44K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/js/velocity.min.js’
+
+     0K .......... .......... .......... .......... ...       100% 44.2K=1.0s
+
+2020-08-08 00:56:21 (44.2 KB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/js/velocity.min.js’ saved [44852/44852]
+
+--2020-08-08 00:56:23--  http://www.mmghs.in/wp-content/themes/Rajib/js/velocity.ui.js
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13558 (13K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/js/velocity.ui.js’
+
+     0K .......... ...                                        100% 19.0K=0.7s
+
+2020-08-08 00:56:24 (19.0 KB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/js/velocity.ui.js’ saved [13558/13558]
+
+--2020-08-08 00:56:26--  http://www.mmghs.in/wp-content/themes/Rajib/js/lazysizes.min.js
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6582 (6.4K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/js/lazysizes.min.js’
+
+     0K ......                                                100% 77.8M=0s
+
+2020-08-08 00:56:27 (77.8 MB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/js/lazysizes.min.js’ saved [6582/6582]
+
+--2020-08-08 00:56:29--  http://www.mmghs.in/wp-content/themes/Rajib/js/menu/verticalmenu.js
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5081 (5.0K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/js/menu/verticalmenu.js’
+
+     0K ....                                                  100% 61.6M=0s
+
+2020-08-08 00:56:29 (61.6 MB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/js/menu/verticalmenu.js’ saved [5081/5081]
+
+--2020-08-08 00:56:31--  http://www.mmghs.in/wp-content/themes/Rajib/js/menu/superfish.js
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8960 (8.8K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/js/menu/superfish.js’
+
+     0K ........                                              100% 13.8M=0.001s
+
+2020-08-08 00:56:32 (13.8 MB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/js/menu/superfish.js’ saved [8960/8960]
+
+--2020-08-08 00:56:34--  http://www.mmghs.in/wp-includes/js/imagesloaded.min.js?ver=3.2.0
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 8148 (8.0K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-includes/js/imagesloaded.min.js?ver=3.2.0’
+
+     0K .......                                               100% 77.5M=0s
+
+2020-08-08 00:56:34 (77.5 MB/s) - ‘www.mmghs.in/wp-includes/js/imagesloaded.min.js?ver=3.2.0’ saved [8148/8148]
+
+--2020-08-08 00:56:36--  http://www.mmghs.in/wp-includes/js/hoverIntent.min.js?ver=1.8.1
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1130 (1.1K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-includes/js/hoverIntent.min.js?ver=1.8.1’
+
+     0K .                                                     100% 19.9M=0s
+
+2020-08-08 00:56:37 (19.9 MB/s) - ‘www.mmghs.in/wp-includes/js/hoverIntent.min.js?ver=1.8.1’ saved [1130/1130]
+
+--2020-08-08 00:56:39--  http://www.mmghs.in/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3931 (3.8K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4’
+
+     0K ...                                                   100% 45.5M=0s
+
+2020-08-08 00:56:39 (45.5 MB/s) - ‘www.mmghs.in/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4’ saved [3931/3931]
+
+--2020-08-08 00:56:41--  http://www.mmghs.in/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6838 (6.7K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4’
+
+     0K ......                                                100% 83.8M=0s
+
+2020-08-08 00:56:42 (83.8 MB/s) - ‘www.mmghs.in/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4’ saved [6838/6838]
+
+--2020-08-08 00:56:44--  http://www.mmghs.in/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6482 (6.3K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4’
+
+     0K ......                                                100%  745K=0.008s
+
+2020-08-08 00:56:45 (745 KB/s) - ‘www.mmghs.in/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4’ saved [6482/6482]
+
+--2020-08-08 00:56:47--  http://www.mmghs.in/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.11.4
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5662 (5.5K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.11.4’
+
+     0K .....                                                 100% 4.04M=0.001s
+
+2020-08-08 00:56:47 (4.04 MB/s) - ‘www.mmghs.in/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.11.4’ saved [5662/5662]
+
+--2020-08-08 00:56:49--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 43584 (43K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4’
+
+     0K .......... .......... .......... .......... ..        100% 44.5K=1.0s
+
+2020-08-08 00:56:51 (44.5 KB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4’ saved [43584/43584]
+
+--2020-08-08 00:56:53--  http://www.mmghs.in/wp-content/themes/Rajib/js/common.js
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 61500 (60K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/js/common.js’
+
+     0K .......... .......... .......... .......... .......... 83% 47.2K 0s
+    50K ..........                                            100% 36.0K=1.3s
+
+2020-08-08 00:56:55 (44.9 KB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/js/common.js’ saved [61500/61500]
+
+--2020-08-08 00:56:57--  http://www.mmghs.in/wp-includes/js/wp-embed.min.js?ver=5.4.2
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1434 (1.4K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-includes/js/wp-embed.min.js?ver=5.4.2’
+
+     0K .                                                     100% 23.4M=0s
+
+2020-08-08 00:56:57 (23.4 MB/s) - ‘www.mmghs.in/wp-includes/js/wp-embed.min.js?ver=5.4.2’ saved [1434/1434]
+
+--2020-08-08 00:56:59--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/js/jquery.easing.min.js?ver=3.5.8
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5555 (5.4K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/plugins/master-slider/public/assets/js/jquery.easing.min.js?ver=3.5.8’
+
+     0K .....                                                 100% 62.7M=0s
+
+2020-08-08 00:57:00 (62.7 MB/s) - ‘www.mmghs.in/wp-content/plugins/master-slider/public/assets/js/jquery.easing.min.js?ver=3.5.8’ saved [5555/5555]
+
+--2020-08-08 00:57:02--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/js/masterslider.min.js?ver=3.5.8
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 90646 (89K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/plugins/master-slider/public/assets/js/masterslider.min.js?ver=3.5.8’
+
+     0K .......... .......... .......... .......... .......... 56% 52.1K 1s
+    50K .......... .......... .......... ........             100%  235K=1.1s
+
+2020-08-08 00:57:03 (78.8 KB/s) - ‘www.mmghs.in/wp-content/plugins/master-slider/public/assets/js/masterslider.min.js?ver=3.5.8’ saved [90646/90646]
+
+--2020-08-08 00:57:05--  http://www.mmghs.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.13
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 60475 (59K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.13’
+
+     0K .......... .......... .......... .......... .......... 84% 78.0K 0s
+    50K .........                                             100% 1.78M=0.6s
+
+2020-08-08 00:57:07 (91.4 KB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.13’ saved [60475/60475]
+
+--2020-08-08 00:57:09--  http://www.mmghs.in/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.10.0
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 6595 (6.4K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.10.0’
+
+     0K ......                                                100% 75.7M=0s
+
+2020-08-08 00:57:09 (75.7 MB/s) - ‘www.mmghs.in/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.10.0’ saved [6595/6595]
+
+--2020-08-08 00:57:11--  http://www.mmghs.in/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.10.0
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 134128 (131K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.10.0’
+
+     0K .......... .......... .......... .......... .......... 38% 68.0K 1s
+    50K .......... .......... .......... .......... .......... 76% 91.6K 0s
+   100K .......... .......... ..........                      100%  880K=1.3s
+
+2020-08-08 00:57:13 (99.5 KB/s) - ‘www.mmghs.in/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.10.0’ saved [134128/134128]
+
+--2020-08-08 00:57:15--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10695 (10K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6’
+
+     0K ..........                                            100%  835K=0.01s
+
+2020-08-08 00:57:16 (835 KB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6’ saved [10695/10695]
+
+--2020-08-08 00:57:18--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12198 (12K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2’
+
+     0K .......... .                                          100% 20.4M=0.001s
+
+2020-08-08 00:57:18 (20.4 MB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2’ saved [12198/12198]
+
+--2020-08-08 00:57:20--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 139153 (136K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6’
+
+     0K .......... .......... .......... .......... .......... 36% 50.1K 2s
+    50K .......... .......... .......... .......... .......... 73%  123K 1s
+   100K .......... .......... .......... .....                100%  121K=1.7s
+
+2020-08-08 00:57:22 (80.0 KB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6’ saved [139153/139153]
+
+--2020-08-08 00:57:24--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.13
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2635 (2.6K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.13’
+
+     0K ..                                                    100% 2.62M=0.001s
+
+2020-08-08 00:57:25 (2.62 MB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.13’ saved [2635/2635]
+
+--2020-08-08 00:57:27--  http://www.mmghs.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.13
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 117731 (115K) [application/javascript]
+Saving to: ‘www.mmghs.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.13’
+
+     0K .......... .......... .......... .......... .......... 43% 48.3K 1s
+    50K .......... .......... .......... .......... .......... 86%  113K 0s
+   100K .......... ....                                       100%  357K=1.5s
+
+2020-08-08 00:57:29 (75.7 KB/s) - ‘www.mmghs.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.13’ saved [117731/117731]
+
+--2020-08-08 00:57:31--  http://www.mmghs.in/wp-content/themes/Rajib/images/logo_responsive.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 25368 (25K) [image/png]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/images/logo_responsive.png’
+
+     0K .......... .......... ....                            100% 78.8K=0.3s
+
+2020-08-08 00:57:32 (78.8 KB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/images/logo_responsive.png’ saved [25368/25368]
+
+--2020-08-08 00:57:34--  http://www.mmghs.in/wp-content/themes/Rajib/images/dividers/stripes.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:57:36 ERROR 404: Not Found.
+
+--2020-08-08 00:57:38--  http://www.mmghs.in/wp-content/themes/Rajib/images/darkskin/dividers/stripes.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:57:39 ERROR 404: Not Found.
+
+--2020-08-08 00:57:41--  http://www.mmghs.in/wp-content/themes/Rajib/images/dividers/thin_fade.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:57:43 ERROR 404: Not Found.
+
+--2020-08-08 00:57:45--  http://www.mmghs.in/wp-content/themes/Rajib/images/darkskin/dividers/thin_fade.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:57:46 ERROR 404: Not Found.
+
+--2020-08-08 00:57:48--  http://www.mmghs.in/wp-content/themes/Rajib/images/dividers/threelines.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:57:50 ERROR 404: Not Found.
+
+--2020-08-08 00:57:52--  http://www.mmghs.in/wp-content/themes/Rajib/images/darkskin/dividers/threelines.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:57:53 ERROR 404: Not Found.
+
+--2020-08-08 00:57:55--  http://www.mmghs.in/wp-content/themes/Rajib/images/dividers/circleline.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:57:57 ERROR 404: Not Found.
+
+--2020-08-08 00:57:59--  http://www.mmghs.in/wp-content/themes/Rajib/images/darkskin/dividers/circleline.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:58:01 ERROR 404: Not Found.
+
+--2020-08-08 00:58:03--  http://www.mmghs.in/wp-content/themes/Rajib/images/dividers/stripedcenter.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:58:05 ERROR 404: Not Found.
+
+--2020-08-08 00:58:07--  http://www.mmghs.in/wp-content/themes/Rajib/images/darkskin/dividers/stripedcenter.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:58:09 ERROR 404: Not Found.
+
+--2020-08-08 00:58:11--  http://www.mmghs.in/wp-content/themes/Rajib/images/dividers/linedcenter.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:58:12 ERROR 404: Not Found.
+
+--2020-08-08 00:58:14--  http://www.mmghs.in/wp-content/themes/Rajib/images/darkskin/dividers/linedcenter.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:58:16 ERROR 404: Not Found.
+
+--2020-08-08 00:58:18--  http://www.mmghs.in/wp-content/themes/Rajib/images/icons/play-button.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:58:19 ERROR 404: Not Found.
+
+--2020-08-08 00:58:21--  http://www.mmghs.in/wp-content/themes/Rajib/images/icons/pause-button.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-08-08 00:58:23 ERROR 404: Not Found.
+
+--2020-08-08 00:58:25--  http://www.mmghs.in/wp-content/themes/Rajib/images/preload-circle.png
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 30618 (30K) [image/png]
+Saving to: ‘www.mmghs.in/wp-content/themes/Rajib/images/preload-circle.png’
+
+     0K .......... .......... .........                       100% 45.9K=0.7s
+
+2020-08-08 00:58:26 (45.9 KB/s) - ‘www.mmghs.in/wp-content/themes/Rajib/images/preload-circle.png’ saved [30618/30618]
+
+--2020-08-08 00:58:46--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+Connecting to www.mmghs.in|43.255.154.35|:80... failed: Network is unreachable.
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:58:48--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:58:50--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:58:52--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:58:54--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:58:56--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:58:58--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/ionicons/fonts/ionicons.eot?v=2.0.0
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:00--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/ionicons/fonts/ionicons.ttf?v=2.0.0
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:02--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/ionicons/fonts/ionicons.woff?v=2.0.0
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:04--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/ionicons/fonts/ionicons.svg?v=2.0.0
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:06--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/et-fonts/fonts/et-line.eot
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:08--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/et-fonts/fonts/et-line.eot?
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:10--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/et-fonts/fonts/et-line.woff
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:12--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/et-fonts/fonts/et-line.ttf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:14--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/et-fonts/fonts/et-line.svg
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:16--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/feather-webfont/fonts/feather-webfont.eot
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:18--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/feather-webfont/fonts/feather-webfont.eot?
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:20--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/feather-webfont/fonts/feather-webfont.woff
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:22--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/feather-webfont/fonts/feather-webfont.ttf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:24--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/feather-webfont/fonts/feather-webfont.svg
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:26--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/fontello/font/fontello.eot?40657606
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:28--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/fontello/font/fontello.woff?40657606
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:30--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/fontello/font/fontello.ttf?40657606
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:32--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/fontello/font/fontello.svg?40657606
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:34--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/simple-line-icons/fonts/Simple-Line-Icons.eot
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:36--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/simple-line-icons/fonts/Simple-Line-Icons.eot?
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:38--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/simple-line-icons/fonts/Simple-Line-Icons.woff
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:40--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/simple-line-icons/fonts/Simple-Line-Icons.ttf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:42--  http://www.mmghs.in/wp-content/themes/Rajib/css/fonts/simple-line-icons/fonts/Simple-Line-Icons.svg
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:44--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.7.0
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:46--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.7.0
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:48--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.7.0
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:50--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.7.0
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:52--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.7.0
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:54--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:56--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 00:59:58--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:00--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:02--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:04--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:06--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:08--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:10--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:12--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:14--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:16--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:18--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:20--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:22--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:24--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:26--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:28--  http://www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:30--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/common/loading-2.gif
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:32--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/common/grab.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:34--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/common/grabbing.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:36--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/common/video-close-btn.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:38--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-1.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:40--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-1-retina.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:42--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/black-skin-1.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:44--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/black-skin-1-retina.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:46--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/minimal.svg
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:48--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/black-skin-2.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:50--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/black-skin-2-retina.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:52--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-2.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:54--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-2-retina.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:56--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-3.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:00:58--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-3-retina.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:00--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-4.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:02--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-4-retina.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:04--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-5.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:06--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-5-retina.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:08--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-6.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:10--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-6-retina.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:12--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/metro-skin.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:14--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/metro-skin-retina.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:16--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/contrast-skin.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:18--  http://www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/skins/contrast-skin-retina.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:20--  http://www.mmghs.in/?p=13274
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:23--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Fhistory%2F
+Resolving www.mmghs.in... 43.255.154.35
+Connecting to www.mmghs.in|43.255.154.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘www.mmghs.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.mmghs.in%2Fhistory%2F’
+
+     0K ..                                                     11.5M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 01:01:24 (11.5 MB/s) - ‘www.mmghs.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.mmghs.in%2Fhistory%2F’ saved [2246]
+
+--2020-08-08 01:01:26--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Fhistory%2F&format=xml
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/xml]
+Saving to: ‘www.mmghs.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.mmghs.in%2Fhistory%2F&format=xml’
+
+     0K ..                                                     1.08M=0.002s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 01:01:27 (1.08 MB/s) - ‘www.mmghs.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.mmghs.in%2Fhistory%2F&format=xml’ saved [2338]
+
+--2020-08-08 01:01:29--  http://www.mmghs.in/files/2020/07/comingsoon.gif
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 674184 (658K) [image/gif]
+Saving to: ‘www.mmghs.in/files/2020/07/comingsoon.gif’
+
+     0K .......... .......... .......... .......... ..........  7% 39.0K 16s
+    50K .......... .......... .......... .......... .......... 15%  115K 10s
+   100K .......... .......... .......... .......... .......... 22% 53.4K 9s
+   150K .......... .......... .......... .......... .......... 30% 93.0K 7s
+   200K .......... .......... .......... .......... .......... 37% 78.4K 6s
+   250K .......... .......... .......... .......... .......... 45% 4.06M 5s
+   300K .......... .......... .......... .......... .......... 53%  118K 4s
+   350K .......... .......... .......... .......... .......... 60% 92.3K 3s
+   400K .......... .......... .......... .......... .......... 68%  111K 2s
+   450K .......... .......... .......... .......... .......... 75% 99.7K 2s
+   500K .......... .......... .......... .......... .......... 83% 1.88M 1s
+   550K .......... .......... .......... .......... .......... 91%  125K 1s
+   600K .......... .......... .......... .......... .......... 98% 2.33M 0s
+   650K ........                                              100% 83.6M=6.2s
+
+2020-08-08 01:01:36 (106 KB/s) - ‘www.mmghs.in/files/2020/07/comingsoon.gif’ saved [674184/674184]
+
+--2020-08-08 01:01:38--  http://www.mmghs.in/files/elementor/css/post-13276.css?ver=1596134345
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 481 [text/css]
+Saving to: ‘www.mmghs.in/files/elementor/css/post-13276.css?ver=1596134345.css’
+
+     0K                                                       100% 8.98M=0s
+
+2020-08-08 01:01:38 (8.98 MB/s) - ‘www.mmghs.in/files/elementor/css/post-13276.css?ver=1596134345.css’ saved [481/481]
+
+--2020-08-08 01:01:40--  http://www.mmghs.in/?p=13276
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.mmghs.in/mcofschool/ [following]
+--2020-08-08 01:01:43--  http://www.mmghs.in/mcofschool/
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... Read error (Software caused connection abort) in headers.
+Retrying.
+
+--2020-08-08 01:01:45--  (try: 2)  http://www.mmghs.in/mcofschool/
+Connecting to www.mmghs.in|43.255.154.35|:80... failed: Network is unreachable.
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:47--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Fmcofschool%2F
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:49--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Fmcofschool%2F&format=xml
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:51--  http://www.mmghs.in/?p=13278
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:53--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Fsyllabus%2F
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:55--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Fsyllabus%2F&format=xml
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:57--  http://www.mmghs.in/files/2020/07/stustudy.png
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:01:59--  http://www.mmghs.in/files/elementor/css/post-13420.css?ver=1596135909
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:02:01--  http://www.mmghs.in/?p=13420
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:02:03--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Fcontact-us%2F
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:02:05--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Fcontact-us%2F&format=xml
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:02:07--  http://www.mmghs.in/?p=13425
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:02:09--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Fgallery%2F
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:02:11--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Fgallery%2F&format=xml
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:02:13--  http://www.mmghs.in/files/2020/07/under-construction.gif
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:02:15--  http://www.mmghs.in/?p=13423
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:02:17--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Flogin%2F
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:02:19--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Flogin%2F&format=xml
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:02:21--  http://www.mmghs.in/?p=13421
+Resolving www.mmghs.in... 43.255.154.35
+Connecting to www.mmghs.in|43.255.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.mmghs.in/notice/ [following]
+--2020-08-08 01:02:25--  http://www.mmghs.in/notice/
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.mmghs.in/index.html?p=13421.html’
+
+     0K .......... .......... .......... .......... ..         35.6K=1.2s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 01:02:27 (35.6 KB/s) - ‘www.mmghs.in/index.html?p=13421.html’ saved [43630]
+
+--2020-08-08 01:02:29--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Fnotice%2F
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘www.mmghs.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.mmghs.in%2Fnotice%2F’
+
+     0K ..                                                      554K=0.004s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 01:02:30 (554 KB/s) - ‘www.mmghs.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.mmghs.in%2Fnotice%2F’ saved [2241]
+
+--2020-08-08 01:02:32--  http://www.mmghs.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.mmghs.in%2Fnotice%2F&format=xml
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/xml]
+Saving to: ‘www.mmghs.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.mmghs.in%2Fnotice%2F&format=xml’
+
+     0K ..                                                     28.4M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-08-08 01:02:33 (28.4 MB/s) - ‘www.mmghs.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.mmghs.in%2Fnotice%2F&format=xml’ saved [2333]
+
+--2020-08-08 01:02:35--  http://www.mmghs.in/files/2020/07/New.gif
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 18470 (18K) [image/gif]
+Saving to: ‘www.mmghs.in/files/2020/07/New.gif’
+
+     0K .......... ........                                   100% 42.8K=0.4s
+
+2020-08-08 01:02:36 (42.8 KB/s) - ‘www.mmghs.in/files/2020/07/New.gif’ saved [18470/18470]
+
+--2020-08-08 01:02:38--  http://www.mmghs.in/Upload/uploads/a3.pdf
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 137999 (135K) [application/pdf]
+Saving to: ‘www.mmghs.in/Upload/uploads/a3.pdf’
+
+     0K .......... .......... .......... .......... .......... 37% 38.2K 2s
+    50K .......... .......... .......... .......... .......... 74% 39.2K 1s
+   100K .......... .......... .......... ....                 100% 55.0K=3.2s
+
+2020-08-08 01:02:41 (41.9 KB/s) - ‘www.mmghs.in/Upload/uploads/a3.pdf’ saved [137999/137999]
+
+--2020-08-08 01:02:43--  http://www.mmghs.in/Upload/uploads/a5.pdf
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 209433 (205K) [application/pdf]
+Saving to: ‘www.mmghs.in/Upload/uploads/a5.pdf’
+
+     0K .......... .......... .......... .......... .......... 24% 57.5K 3s
+    50K .......... .......... .......... .......... .......... 48%  110K 1s
+   100K .......... .......... .......... .......... .......... 73% 60.8K 1s
+   150K .......... .......... .......... .......... .......... 97%  113K 0s
+   200K ....                                                  100%  794K=2.6s
+
+2020-08-08 01:02:46 (78.9 KB/s) - ‘www.mmghs.in/Upload/uploads/a5.pdf’ saved [209433/209433]
+
+--2020-08-08 01:02:48--  http://www.mmghs.in/Upload/uploads/a4.pdf
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 136214 (133K) [application/pdf]
+Saving to: ‘www.mmghs.in/Upload/uploads/a4.pdf’
+
+     0K .......... .......... .......... .......... .......... 37% 49.2K 2s
+    50K .......... .......... .......... .......... .......... 75% 70.1K 1s
+   100K .......... .......... .......... ...                  100%  208K=1.9s
+
+2020-08-08 01:02:51 (70.4 KB/s) - ‘www.mmghs.in/Upload/uploads/a4.pdf’ saved [136214/136214]
+
+--2020-08-08 01:02:53--  http://www.mmghs.in/Upload/uploads/a2.pdf
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 150232 (147K) [application/pdf]
+Saving to: ‘www.mmghs.in/Upload/uploads/a2.pdf’
+
+     0K .......... .......... .......... .......... .......... 34% 22.3K 4s
+    50K .......... .......... .......... .......... .......... 68% 22.4K 2s
+   100K .......... .......... .......... .......... ......    100% 36.4K=5.8s
+
+2020-08-08 01:02:59 (25.5 KB/s) - ‘www.mmghs.in/Upload/uploads/a2.pdf’ saved [150232/150232]
+
+--2020-08-08 01:03:01--  http://www.mmghs.in/Upload/uploads/a1.pdf
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 120591 (118K) [application/pdf]
+Saving to: ‘www.mmghs.in/Upload/uploads/a1.pdf’
+
+     0K .......... .......... .......... .......... .......... 42% 39.2K 2s
+    50K .......... .......... .......... .......... .......... 84% 39.2K 0s
+   100K .......... .......                                    100% 3.54M=2.6s
+
+2020-08-08 01:03:04 (46.1 KB/s) - ‘www.mmghs.in/Upload/uploads/a1.pdf’ saved [120591/120591]
+
+--2020-08-08 01:03:06--  http://www.mmghs.in/Upload/uploads/notice.pdf
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 234052 (229K) [application/pdf]
+Saving to: ‘www.mmghs.in/Upload/uploads/notice.pdf’
+
+     0K .......... .......... .......... .......... .......... 21% 59.0K 3s
+    50K .......... .......... .......... .......... .......... 43%  115K 2s
+   100K .......... .......... .......... .......... .......... 65% 77.8K 1s
+   150K .......... .......... .......... .......... .......... 87% 77.6K 0s
+   200K .......... .......... ........                        100% 1.07M=2.6s
+
+2020-08-08 01:03:10 (88.1 KB/s) - ‘www.mmghs.in/Upload/uploads/notice.pdf’ saved [234052/234052]
+
+--2020-08-08 01:03:12--  http://www.mmghs.in/Upload/uploads/CLASS%20-XII%20ADMISSION%202019-2020.pdf
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 597482 (583K) [application/pdf]
+Saving to: ‘www.mmghs.in/Upload/uploads/CLASS -XII ADMISSION 2019-2020.pdf’
+
+     0K .......... .......... .......... .......... ..........  8% 39.1K 14s
+    50K .......... .......... .......... .......... .......... 17% 78.0K 9s
+   100K .......... .......... .......... .......... .......... 25% 77.2K 7s
+   150K .......... .......... .......... .......... .......... 34% 3.37M 5s
+   200K .......... .......... .......... .......... .......... 42% 78.4K 4s
+   250K .......... .......... .......... .......... .......... 51% 79.7K 4s
+   300K .......... .......... .......... .......... .......... 59%  705K 3s
+   350K .......... .......... .......... .......... .......... 68% 86.7K 2s
+   400K .......... .......... .......... .......... .......... 77% 1.09M 1s
+   450K .......... .......... .......... .......... .......... 85% 84.8K 1s
+   500K .......... .......... .......... .......... .......... 94% 2.43M 0s
+   550K .......... .......... .......... ...                  100% 82.6K=5.6s
+
+2020-08-08 01:03:18 (105 KB/s) - ‘www.mmghs.in/Upload/uploads/CLASS -XII ADMISSION 2019-2020.pdf’ saved [597482/597482]
+
+--2020-08-08 01:03:20--  http://www.mmghs.in/Upload/uploads/Distribution%20Books%20&%20Iron%20Tables%20for%20Class%20-%20XII.pdf
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 616014 (602K) [application/pdf]
+Saving to: ‘www.mmghs.in/Upload/uploads/Distribution Books & Iron Tables for Class - XII.pdf’
+
+     0K .......... .......... .......... .......... ..........  8% 38.9K 14s
+    50K .......... .......... .......... .......... .......... 16% 76.0K 10s
+   100K .......... .......... .......... .......... .......... 24%  105K 7s
+   150K .......... .......... .......... .......... .......... 33%  104K 6s
+   200K .......... .......... .......... .......... .......... 41% 80.0K 5s
+   250K .......... .......... .......... .......... .......... 49% 1.97M 4s
+   300K .......... .......... .......... .......... .......... 58%  104K 3s
+   350K .......... .......... .......... .......... .......... 66% 1.29M 2s
+   400K .......... .......... .......... .......... .......... 74%  120K 2s
+   450K .......... .......... .......... .......... .......... 83% 1.88M 1s
+   500K .......... .......... .......... .......... .......... 91% 82.4K 0s
+   550K .......... .......... .......... .......... .......... 99% 2.39M 0s
+   600K .                                                     100% 3006G=5.1s
+
+2020-08-08 01:03:25 (117 KB/s) - ‘www.mmghs.in/Upload/uploads/Distribution Books & Iron Tables for Class - XII.pdf’ saved [616014/616014]
+
+--2020-08-08 01:03:27--  http://www.mmghs.in/Upload/uploads/Distribution%20of%20Rice%20Potata%20Masoor%20Dal%20Sanitizer%20&%20Iron%20Tablet%20%20for%20the%20month%20of%20July%202020%20of%20MDM.pdf
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 852703 (833K) [application/pdf]
+Saving to: ‘www.mmghs.in/Upload/uploads/Distribution of Rice Potata Masoor Dal Sanitizer & Iron Tablet  for the month of July 2020 of MDM.pdf’
+
+     0K .......... .......... .......... .......... ..........  6% 77.0K 10s
+    50K .......... .......... .......... .......... .......... 12% 77.3K 10s
+   100K .......... .......... .......... .......... .......... 18% 79.8K 9s
+   150K .......... .......... .......... .......... .......... 24%  894K 6s
+   200K .......... .......... .......... .......... .......... 30% 83.0K 6s
+   250K .......... .......... .......... .......... .......... 36%  122K 5s
+   300K .......... .......... .......... .......... .......... 42% 4.52M 4s
+   350K .......... .......... .......... .......... .......... 48% 96.8K 4s
+   400K .......... .......... .......... .......... .......... 54% 3.76M 3s
+   450K .......... .......... .......... .......... .......... 60% 1.31M 2s
+   500K .......... .......... .......... .......... .......... 66%  124K 2s
+   550K .......... .......... .......... .......... .......... 72%  668K 2s
+   600K .......... .......... .......... .......... .......... 78% 1.09M 1s
+   650K .......... .......... .......... .......... .......... 84%  125K 1s
+   700K .......... .......... .......... .......... .......... 90% 1.01M 1s
+   750K .......... .......... .......... .......... .......... 96%  566K 0s
+   800K .......... .......... .......... ..                   100% 64.0K=5.1s
+
+2020-08-08 01:03:33 (162 KB/s) - ‘www.mmghs.in/Upload/uploads/Distribution of Rice Potata Masoor Dal Sanitizer & Iron Tablet  for the month of July 2020 of MDM.pdf’ saved [852703/852703]
+
+--2020-08-08 01:03:35--  http://www.mmghs.in/Upload/uploads/Distribution_of_Rice_and_Potato_to_the_Students_Class_-V_to_VIII_under_CMDMP-12.pdf
+Reusing existing connection to www.mmghs.in:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 200662 (196K) [application/pdf]
+Saving to: ‘www.mmghs.in/Upload/uploads/Distribution_of_Rice_and_Potato_to_the_Students_Class_-V_to_VIII_under_CMDMP-12.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  113K 1s
+    50K .......... .......... .......... .......... .......... 51% 59.2K 1s
+   100K .......... .......... .......... .......... .......... 76% 1.73M 0s
+   150K .......... ..                                          83% 33.7K=1.7s
+
+2020-08-08 01:03:37 (96.1 KB/s) - Read error at byte 166721/200662 (Software caused connection abort). Retrying.
+
+--2020-08-08 01:03:38--  (try: 2)  http://www.mmghs.in/Upload/uploads/Distribution_of_Rice_and_Potato_to_the_Students_Class_-V_to_VIII_under_CMDMP-12.pdf
+Connecting to www.mmghs.in|43.255.154.35|:80... failed: Network is unreachable.
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:03:40--  http://www.mmghs.in/Upload/uploads/Distribution%20of%20Iron%20Tablet%20to%20the%20Students%20Class%20-IX_%20X%20and%20XII%20%20under%20CMDMP.pdf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:03:42--  http://www.mmghs.in/Upload/uploads/Distribution_of_Rice_and_Potato_to_the_Students_Class_-V_to_VIII_under_CMDMP-1.pdf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:03:44--  http://www.mmghs.in/Upload/uploads/9-12%20class.pdf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:03:46--  http://www.mmghs.in/Upload/uploads/5-8%20class.pdf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:03:48--  http://www.mmghs.in/Upload/uploads/Rice%20and%20Potato%20April2.pdf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:03:50--  http://www.mmghs.in/Upload/uploads/Rice%20and%20Potato%20April.pdf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:03:52--  http://www.mmghs.in/Upload/uploads/Subjects%20and%20Topics%20for%20TV%20Programme%20on%20ZEE%2024%20Ghanta%20from%2020%20to%2025.pdf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:03:54--  http://www.mmghs.in/Upload/uploads/DI%20mail.pdf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:03:56--  http://www.mmghs.in/Upload/uploads/assignment.pdf
+Resolving www.mmghs.in... 43.255.154.35
+Connecting to www.mmghs.in|43.255.154.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 379683 (371K) [application/pdf]
+Saving to: ‘www.mmghs.in/Upload/uploads/assignment.pdf’
+
+     0K .......... .......... .......... .......... .......... 13% 45.7K 7s
+    50K .......... .......... .......... .......... .......... 26%  726K 3s
+   100K .......... .......... .......... .......... .......... 40% 1.22M 2s
+   150K .......... .......... .......... .....                 49%  504K=1.3s
+
+2020-08-08 01:03:59 (146 KB/s) - Read error at byte 189816/379683 (Software caused connection abort). Retrying.
+
+--2020-08-08 01:04:00--  (try: 2)  http://www.mmghs.in/Upload/uploads/assignment.pdf
+Connecting to www.mmghs.in|43.255.154.35|:80... failed: Network is unreachable.
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:04:02--  http://www.mmghs.in/Upload/uploads/Rice%20and%20Potato%20Distribution.pdf
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:04:04--  http://www.mmghs.in/Online/css/bootstrap.css
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:04:06--  http://www.mmghs.in/Online/style.css
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:04:08--  http://www.mmghs.in/js/bootstrap.js
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:04:10--  http://www.mmghs.in/Online/custom.js
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+--2020-08-08 01:04:12--  http://www.mmghs.in/Online/custom.css
+Resolving www.mmghs.in... failed: No address associated with hostname.
+wget: unable to resolve host address ‘www.mmghs.in’
+FINISHED --2020-08-08 01:04:12--
+Total wall clock time: 11m 32s
+Downloaded: 100 files, 7.6M in 1m 37s (80.1 KB/s)
+Converting links in www.mmghs.in/gallery/index.html... 95-3
+Converting links in www.mmghs.in/index.html?p=13421.html... 98-16
+Converting links in www.mmghs.in/Online/check.php.html... 1-1
+Converting links in www.mmghs.in/history/index.html... 97-3
+Converting links in www.mmghs.in/mcofschool/index.html... 95-3
+Converting links in www.mmghs.in/notice/index.html... 98-16
+Converting links in www.mmghs.in/login/index.html... 95-3
+Converting links in www.mmghs.in/contact-us/index.html... 94-3
+Converting links in www.mmghs.in/index.html... 114-3
+Converting links in www.mmghs.in/syllabus/index.html... 94-3
+Converting links in www.mmghs.in/Online/adm.php.html... 0-5
+Converting links in www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0.css... 0-6
+Converting links in www.mmghs.in/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.5.8.css... 0-52
+Converting links in www.mmghs.in/wp-content/themes/Rajib/style.css?ver=screen.css... 2-14
+Converting links in www.mmghs.in/wp-content/plugins/wpfront-scroll-top/css/wpfront-scroll-top.min.css?ver=2.0.2.css... nothing to do.
+Converting links in www.mmghs.in/files/elementor/css/post-7.css?ver=1596133617.css... nothing to do.
+Converting links in www.mmghs.in/wp-content/themes/Rajib/css/fonts/feather-webfont/feather.css?ver=5.4.2.css... 0-5
+Converting links in www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=2.9.13.css... nothing to do.
+Converting links in www.mmghs.in/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4.css... nothing to do.
+Converting links in www.mmghs.in/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.10.0.css... nothing to do.
+Converting links in www.mmghs.in/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.13.css... nothing to do.
+Converting links in www.mmghs.in/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2.css... nothing to do.
+Converting links in www.mmghs.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=2.9.13.css... 0-18
+Converting links in www.mmghs.in/wp-content/themes/Rajib/css/fonts/simple-line-icons/simple-line-icons.css?ver=5.4.2.css... 0-5
+Converting links in www.mmghs.in/files/master-slider/custom.css?ver=4.3.css... nothing to do.
+Converting links in www.mmghs.in/wp-content/themes/Rajib/css/fonts/fontello/css/fontello.css?ver=5.4.2.css... 0-5
+Converting links in www.mmghs.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0.css... 0-6
+Converting links in www.mmghs.in/files/elementor/css/post-13276.css?ver=1596134345.css... nothing to do.
+Converting links in www.mmghs.in/wp-content/themes/Rajib/css/fonts/et-fonts/et-fonts.css?ver=5.4.2.css... 0-5
+Converting links in www.mmghs.in/wp-content/themes/Rajib/css/responsive.css?ver=5.4.2.css... nothing to do.
+Converting links in www.mmghs.in/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.13.css... nothing to do.
+Converting links in www.mmghs.in/wp-content/themes/Rajib/css/fonts/ionicons/css/ionicons.min.css?ver=5.4.2.css... 0-5
+Converting links in www.mmghs.in/wp-content/themes/Rajib/css/animations.css?ver=5.4.2.css... nothing to do.
+Converted links in 33 files in 0.2 seconds.

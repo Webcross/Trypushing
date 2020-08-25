@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title> Class XI Admission 2020 </title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href="http://www.mmghs.in/Online/css/bootstrap.css" rel="stylesheet">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<link href="http://www.mmghs.in/Online/style.css" rel="stylesheet">
+<style> 
+.card-deck .card {
+  max-width:97% !important;
+  margin:auto; 
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  background-color: #ccffcc;
+}
+
+</style>
+<script src="https://www.google.com/recaptcha/api.js?render=6Ldiw7QZAAAAAGk7cNFYDbnD4j9gMTyKsjSrvNlS">
+    
+</script>
+
+</head>
+<body>
+<header>
+<h3> <b>Madhyamgram High School</b> </h3>
+<h5>Online Form-Fillup for Class XI Admission, 2020</h5>
+<font color="red">* </font> is mandatory.
+<h6> If you face issues in form fill up mail at <a href="mailto:contact@mmghs.in">contact@mmghs.in</a></h6>
+
+<p></p></header>
+<form name="myform" action="http://www.mmghs.in/Online/insert.php" method="post" onSubmit="if(!confirm('Form once submitted cannot be changed. Press Cancel to Recheck before Submit or Press OK if everything is Correct.')){return false;}" autocomplete="off"><input type="hidden" id="g-token" name="g-token" />
+ <div class="container">
+  <div class="card-deck mb-3 text-center">
+    <div class="card mb-4 shadow-sm">
+      <div class="card-header1">
+        <h4 class="my-0 font-weight-normal">Choose Stream and Subject Combination</h4>
+      </div>
+      <div class="form-row">
+    <div class="form-group col-md-2 m-2">
+        <label ><b>MADHYAMIK ROLL: <font color="red">* </font></b></label>
+        <input type="text" name="mroll" class="form-control" required pattern=".{7,7}">
+        </div>
+      <div class="form-group col-md-1 m-2">
+        <label><b>NO: <font color="red">* </font></b></label>
+        <input type="text" name="mno" class="form-control" required pattern=".{4,4}" id="Number0">
+      </div>
+      <div class="form-group col-md-6 m-2">
+        <label ><b>PASSED MADHYAMIK FROM: <font color="red">* </font></b></label>
+        <input type="text" name="school" class="form-control" required placeholder="Name of the School you passed Madhyamik from" id="Text0">
+        </div>
+      </div>
+<div class="form-row">
+    <div class="form-group col-md-2 m-2">
+        <label><b>TOTAL MARKS OBTAINED: <font color="red">* </font></b></label>
+        <input type="text" name="total" class="form-control" required pattern=".{3,3}" id="Number1">
+      </div>
+      <div class="form-group col-md-1 m-2">
+        <label><b>LIFE SC: <font color="red">* </font></b></label>
+        <input type="text" name="lsc" class="form-control" required pattern=".{2,3}" id="Number2">
+      </div>
+      <div class="form-group col-md-1 m-2">
+        <label><b>MATH: <font color="red">* </font></b></label>
+        <input type="text" name="math" class="form-control" required pattern=".{2,3}" id="Number3">
+      </div>
+      <div class="form-group col-md-1 m-2">
+        <label><b>GEOGRAPHY: <font color="red">* </font></b></label>
+        <input type="text" name="geo" class="form-control" required pattern=".{2,3}" id="Number4">
+      </div>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-md-2 m-2">
+        <label><b> STREAM: <font color="red">* </font> </b></label>
+        <select id="subject" name="stream" onchange="random_function()" required class="form-control">
+          <option value="" disabled selected>Select Your Stream </option>
+    <option value="SCIENCE">SCIENCE</option>
+    <option value="COMMERCE">COMMERCE</option>
+    <option value="ARTS">ARTS</option>
+        </select>
+      </div>
+
+      <div class="form-group col-md-7 m-2">
+        <label><b> SUBJECTS: <font color="red">* </font> </b></label>
+        <select id="stream" name="sub_combi" onchange="random_function1()" required class="form-control">
+          <option value="SELECT" disabled selected>SUBJECT COMBINATION</option>
+            </select>
+      </div>
+      <label class="note">If you choose MATH, GEOGRAPHY, BIOLOGY as Elective Subject, You must score at least 35% in MATH, GEOGRAPHY, LIFE SC respectively in Madhyamik.</label>
+    
+    
+
+    </div>
+      </div>
+    </div>
+
+<div class="card-deck mb-3 text-center">
+    <div class="card mb-4 shadow-sm">
+      <div class="card-header1">
+        <h4 class="my-0 font-weight-normal">Applicant's Details</h4>
+      </div>
+      <div class="form-row">
+        <div class="form-group col-md-3 m-2">
+        <label ><b>APPLICANT'S NAME: <font color="red">* </font></b></label>
+        <input type="text" name="sname" class="form-control" required id="Text1">
+        </div>
+       <div class="form-group col-md-2 m-2">
+              <label><b>DATE OF BIRTH : <font color="red">* </font></b></label>
+              <div class="input-group">
+                <div class="input-group-prepend">
+                  <span class="input-group-text"><i class="fa fa-calendar" aria-hidden="true"></i></span>
+                </div>
+                <input type="date" class="form-control" name="dob" required>
+                </div>
+              </div>
+              <div class="form-group col-md-2 m-2">
+        <label ><b>AADHAAR: </b></label>
+        <input type="text" name="adhar" class="form-control" pattern=".{12,12}" id="Number5">
+        </div>
+        <div class="form-group col-md-2 m-2">
+        <label ><b>CONTACT(Mobile): <font color="red">* </font></b></label>
+        <input type="text" name="contact" class="form-control" required pattern=".{10,10}" id="Number6">
+        </div>
+      </div>
+      <div class="form-row">
+    <div class="form-group col-md-1 m-2">
+        <label ><b>CASTE: <font color="red">* </font></b></label>
+        <select  name="caste" id="filter" onchange = "Subcaste(this)" class="form-control">     
+          <option value="GENERAL" selected>GENERAL</option>
+            <option value="SC">SC</option>
+            <option value="ST">ST</option>
+            <option value="OBC-A">OBC-A</option>
+            <option value="OBC-B">OBC-B</option>
+    </select>
+        </div>
+       <div class="form-group col-md-2 m-2">
+        <label ><b>SUBCASTE: <font color="red">* </font></b></label>
+        <input type="text" id ="field" name="subcaste" class="form-control" disabled="disabled" id="Text8" required>
+        </div>
+        <div class="form-group col-sm-2 m-2">
+        <label ><b>BLOOD GROUP: </b></label>
+        <select  name="blood" class="form-control">     
+          <option selected></option>
+      <option value="A+">A+</option><option value="A-">A-</option>
+      <option value="B+">B+</option><option value="B-">B-</option>
+      <option value="O+">O+</option><option value="O-">O-</option>
+      <option value="AB+">AB+</option><option value="AB-">AB-</option>
+    </select>
+      </div>
+      <div class="form-group col-md-1 m-2">
+        <label ><b>RELIGION: <font color="red">* </font></b></label>
+        <select  name="religion" class="form-control" required>     
+          <option value="" selected></option>
+      <option value="HINDU">HINDU</option>
+      <option value="MUSLIM">MUSLIM</option>
+      <option value="CHRISTIAN">CHRISTIAN</option>
+      <option value="SIKH">SIKH</option>
+      <option value="BUDDHIST">BUDDHIST</option>
+      <option value="JAIN">JAIN</option>
+      <option value="PARSI">PARSI</option>
+    </select>
+      </div>
+      <div class="col-md-3 m-2">
+              <label for="email"><b>E-MAIL</b></label>
+              <div class="input-group">
+                <div class="input-group-prepend">
+                  <span class="input-group-text">@</span>
+                </div>
+              <input type="email" class="form-control" name="email" id="email" placeholder="you@example.com">
+              <div class="invalid-feedback">
+                Please enter a valid email address.
+              </div>
+            </div>
+        </div>
+
+ </div>
+
+    </div>
+    </div>
+    <!-- Card Ends -->
+    <!-- Card Starts -->
+  <div class="card-deck mb-3 text-center">
+    <div class="card mb-4 shadow-sm">
+      <div class="card-header1"> <!-- Card Header -->
+        <h4 class="my-0 font-weight-normal">Family Details</h4>
+      </div>
+      <!-- Card Body -->
+<div class="form-row">
+        <div class="form-group col-md-3 m-2">
+        <label ><b>FATHER'S NAME: <font color="red">* </font></b></label>
+        <input type="text" name="father" class="form-control" required id="Text2">
+        </div>
+       <div class="form-group col-md-2 m-2">
+        <label ><b>FATHER'S AADHAAR: </b></label>
+        <input type="text" name="fatad" class="form-control" pattern=".{12,12}" id="Number7">
+        </div>
+        <div class="group mt-5">
+        <input type="checkbox" id="xd1" name="fg" onchange="copyTextValue(this.form)" />
+        <label class="tick " for="xd1"><b> If GUARDIAN? (Tick)</b></label>
+      </div>
+       
+</div>
+<div class="form-row">
+        <div class="form-group col-md-3 m-2">
+        <label ><b>MOTHER'S NAME: <font color="red">* </font></b></label>
+        <input type="text" name="mother" class="form-control" required id="Text3">
+        </div>
+       <div class="form-group col-md-2 m-2">
+        <label ><b>MOTHER'S AADHAAR: </b></label>
+        <input type="text" name="matad" class="form-control" pattern=".{12,12}" id="Number8">
+        </div>
+        <div class="group mt-5">
+        <input type="checkbox" id="xd2" name="mg" onchange="copyTextValue(this.form)" />
+        <label class="tick " for="xd2"><b> If GUARDIAN? (Tick)</b></label>
+      </div>
+</div>
+<div class="form-row">
+        <div class="form-group col-md-3 m-2">
+        <label ><b>GUARDIAN'S NAME: <font color="red">* </font></b></label>
+        <input type="text" name="guard" class="form-control" required id="Text4">
+        </div>
+       <div class="form-group col-md-2 m-2">
+        <label ><b>GUARDIAN'S AADHAAR: </b></label>
+        <input type="text" name="gadhar" class="form-control" pattern=".{12,12}" id="Number9">
+        </div>
+        <div class="form-group col-md-2 m-2">
+        <label ><b>RELATION WITH GUARDIAN:<font color="red">*</font></b></label>
+        <input type="text" name="rguard" class="form-control" required id="Text5">
+        </div>
+        <div class="form-group col-md-2 m-2">
+        <label ><b>ANNUAL FAMILY INCOME: </b></label>
+        <input type="text" name="income" class="form-control" id="Number10">
+        </div>
+</div>
+</div>
+    </div>
+    <!-- Card Ends -->
+     <!-- Card Starts -->
+  <div class="card-deck mb-3 text-center">
+    <div class="card mb-4 shadow-sm">
+      <div class="card-header1"> <!-- Card Header -->
+        <h4 class="my-0 font-weight-normal">Address Details</h4>
+      </div>
+      <!-- Card Body -->
+      <div class="form-row">
+        <div class="form-group col-md-4 m-2">
+      <label ><b> House No & Road/Area:<font color="red">* </font> </b></label>
+      <input type="text" class="form-control" name="road" required placeholder="1234 Main St" >
+    </div>
+    <div class="form-group col-md-2 m-2">
+      <label ><b> Block/Municipality:<font color="red">* </font> </b></label>
+      <input type="text" class="form-control" name="muni" required >
+    </div>
+    <div class="form-group col-md-2 m-2">
+      <label ><b> Post Office:<font color="red">* </font> </b></label>
+      <input type="text" class="form-control" name="post" required id="Text6">
+    </div>
+    <div class="form-group col-md-2 m-2">
+      <label ><b> Police Station:<font color="red">* </font> </b></label>
+      <input type="text" class="form-control" name="police" required id="Text7">
+    </div>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-md-2 m-2">
+        <label ><b>District: <font color="red">* </font></b></label>
+        <select  name="district" class="form-control" required>     
+          <option value="Bankura">Bankura</option>
+            <option value="Bardhaman">Bardhaman</option>
+            <option value="Birbhum">Birbhum</option>
+            <option value="CoochBehar">Cooch Behar</option>
+            <option value="Darjeeling">Darjeeling</option>
+            <option value="East Midnapore">East Midnapore</option>
+            <option value="Hooghly">Hooghly</option>
+            <option value="Howrah">Howrah</option>
+            <option value="Jalpaiguri">Jalpaiguri</option>
+            <option value="Kolkata">Kolkata</option>
+            <option value="Malda">Malda</option>
+            <option value="Murshidabad">Murshidabad</option>
+            <option value="Nadia">Nadia</option>
+            <option value="North 24 Parganas" selected>North 24 Parganas</option>
+            <option value="North Dinajpur">North Dinajpur</option>
+            <option value="Purulia">Purulia</option>
+            <option value="South 24 Parganas">South 24 Parganas</option>
+            <option value="South Dinajpur">South Dinajpur</option>
+            <option value="West Midnapore">West Midnapore</option>
+    </select>
+      </div>
+    <div class="form-group col-md-2 m-2">
+      <label ><b> PINCODE:<font color="red">* </font> </b></label>
+      <input type="text" class="form-control" name="pin" required pattern=".{6,6}" id="Number11">
+    </div>
+  </div>
+      
+    </div>
+    </div>
+    <!-- Card Ends -->
+    
+  <!-- Card Starts -->
+  <div class="card-deck mb-3 text-center">
+    <div class="card mb-4 shadow-sm">
+      <div class="card-header1"> <!-- Card Header -->
+        <h4 class="my-0 font-weight-normal">DECLARATION</h4>
+      </div>
+      <!-- Card Body -->
+      <div class="group">
+        <input type="checkbox" id="xd3" name="accept" required />
+        <label class="tick declare" for="xd3"><i> I hereby declare that all the particulars furnished in this application are true, correct and complete to the best  of  my  knowledge  and  belief.  In  the  event  of  any  information  being found  false  or  incorrect  or ineligibility being detected before or after the submission of my application and admission, action can be taken against me by the school to cancel my application and admission.</i></label>
+      </div>
+
+     </div>
+    </div>
+    <!-- Card Ends -->
+  <center>
+  <button type="reset" value="Reset" class="button" >Reset</button> &emsp;&emsp;&emsp;
+  <input type="submit" name="submit" value="Submit" id="pop" /></center>
+  <br></div>
+</form> 
+<script src="http://www.mmghs.in/js/bootstrap.js"></script>
+<script type="text/javascript">
+  function setInputFilter(textbox, inputFilter) {
+  ["input", "keydown", "keyup", "mousedown", "mouseup", "select", "contextmenu", "drop"].forEach(function(event) {
+    textbox.addEventListener(event, function() {
+      if (inputFilter(this.value)) {
+        this.oldValue = this.value;
+        this.oldSelectionStart = this.selectionStart;
+        this.oldSelectionEnd = this.selectionEnd;
+      } else if (this.hasOwnProperty("oldValue")) {
+        this.value = this.oldValue;
+        this.setSelectionRange(this.oldSelectionStart, this.oldSelectionEnd);
+      } else {
+        this.value = "";
+      }
+    });
+  });
+}
+var x = 12;//Add 1 with total
+var myArray = Array();
+for(var i=0; i<x; i++)
+{
+    myArray[i]="Number"+i;
+}
+for (var i = 0; i < myArray.length; i++) {
+    var obj = myArray[i];
+    setInputFilter(document.getElementById(obj), function(value) {
+  return /^\d*$/.test(value); });
+}
+
+/*(document.getElementById("intTextBox"), function(value) {
+  return /^\d*$/.test(value); });*/
+  
+var y = 9;//Add 1 with total
+var myCArray = Array();
+for(var i=0; i<y; i++)
+{
+    myCArray[i]="Text"+i;
+}
+for (var i = 0; i < myCArray.length; i++) {
+    var obj = myCArray[i];
+    setInputFilter(document.getElementById(obj), function(value) {
+  return /^[a-z\s]*$/i.test(value); });
+} 
+/*setInputFilter(document.getElementById("charTextBox"), function(value) {
+  return /^[a-z]*$/i.test(value); });*/
+var z = 2;//Add 1 with total
+var myBArray = Array();
+for(var i=0; i<z; i++)
+{
+    myBArray[i]="Add"+i;
+}
+for (var i = 0; i < myBArray.length; i++) {
+    var obj = myBArray[i];
+    setInputFilter(document.getElementById(obj), function(value) {
+  return /^[a-z]*$/i.test(value); });
+}   
+
+function random_function()
+            {
+                var a=document.getElementById("subject").value;
+                if(a==="SCIENCE")
+                {
+                    var arr=["BENGALI - ENGLISH - CHEMISTRY - MATHEMATICS - PHYSICS - BIOLOGY", "BENGALI - ENGLISH - CHEMISTRY - MATHEMATICS - PHYSICS - COMPUTER SCIENCE"];
+                }
+                else if(a==="COMMERCE")
+                {
+                    var arr=["BENGALI - ENGLISH - ACCOUNTANCY - BUSINESS STUDIES - COSTING & TAX - ECONOMICS","BENGALI - ENGLISH - ACCOUNTANCY - BUSINESS STUDIES - COSTING & TAX - COMPUTER APPLICATION","BENGALI - ENGLISH - ACCOUNTANCY - BUSINESS STUDIES - COSTING & TAX - MATHEMATICS","BENGALI - ENGLISH - ACCOUNTANCY - BUSINESS STUDIES - COSTING & TAX - PHYSICAL EDUCATION","BENGALI - ENGLISH - ACCOUNTANCY - BUSINESS STUDIES - GEOGRAPHY - MATHEMATICS","BENGALI - ENGLISH - ACCOUNTANCY - BUSINESS STUDIES - ECONOMICS - MATHEMATICS"];
+                }
+                else if(a==="ARTS")
+                {
+                    var arr=["BENGALI - ENGLISH - POL SC - HISTORY - COMPUTER APPLICATION - MATHEMATICS", "BENGALI - ENGLISH - POL SC - HISTORY - COMPUTER APPLICATION - ECONOMICS", "BENGALI - ENGLISH - POL SC - HISTORY - COMPUTER APPLICATION - GEOGRAPHY", "BENGALI - ENGLISH - POL SC - HISTORY - PHYSICAL EDUCATION - MATHEMATICS", "BENGALI - ENGLISH - POL SC - HISTORY - PHYSICAL EDUCATION - ECONOMICS","BENGALI - ENGLISH - POL SC - ECONOMICS - MATHEMATICS - COMPUTER APPLICATION", "BENGALI - ENGLISH - POL SC - HISTORY - PHYSICAL EDUCATION - GEOGRAPHY", "BENGALI - ENGLISH - ECONOMICS - GEOGRAPHY - COMPUTER APPLICATION - MATHEMATICS"];
+                }
+             
+                var string="";
+             
+                for(i=0;i<arr.length;i++)
+                {
+                    string=string+"<option value=\""+arr[i]+"\">"+arr[i]+"</option>";
+                }
+                document.getElementById("stream").innerHTML=string;
+            };
+
+  function Subcaste(filter) {
+        var selectedValue = filter.options[filter.selectedIndex].value;
+        var field = document.getElementById("field");
+        field.disabled = selectedValue != "GENERAL" ? false : true;
+        if (!field.disabled) {
+            field.focus();
+        }
+    };
+  function copyTextValue(f) {
+  if(f.fg.checked == true) {
+    f.guard.value=f.father.value ;
+    f.gadhar.value =  f.fatad.value;
+     f.rguard.value = "FATHER";
+    
+  }
+  else if(f.mg.checked == true) {
+    f.guard.value=f.mother.value ;
+    f.gadhar.value =  f.matad.value;
+     f.rguard.value = "MOTHER";
+    
+  }
+  else
+      {
+     f.guard.value="" ;
+    f.gadhar.value =  "";
+     f.rguard.value = "";
+  }
+}
+</script>
+   <script>
+   grecaptcha.ready(function() {
+    grecaptcha.execute('6Ldiw7QZAAAAAGk7cNFYDbnD4j9gMTyKsjSrvNlS', {action: 'homepage'}).then(function(token) {
+		console.log(token);
+       document.getElementById("g-token").value = token;
+    });
+});
+  </script>
+
+<script src='http://www.mmghs.in/Online/custom.js'></script>
+  </body></html>
