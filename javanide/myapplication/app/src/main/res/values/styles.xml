@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.Light" >
+    </style>
+    
+    <style name="SplashTheme" parent="@android:style/Theme.Light">
+    <item name="android:windowBackground">@drawable/splash_screen</item>
+</style>
+    
+    
+    
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practice</string>
+    <string name="title_activity_main">MAIN_ACTIVITY</string>
+    
+    <string name="dialog_message">Welcome to Alert Dialog</string>  
+    <string name="dialog_title">Javatpoint Alert Dialog
+    </string>  
+</resources> 
